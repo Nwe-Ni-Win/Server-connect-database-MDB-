@@ -10,12 +10,21 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mongoose": "^8.16.0",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nwe-Ni-Win/Server-connect-database-MDB-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nwe-Ni-Win/Server-connect-database-MDB-/issues"
+  },
+  "homepage": "https://github.com/Nwe-Ni-Win/Server-connect-database-MDB-#readme",
+  "description": ""
 }
